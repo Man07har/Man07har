@@ -5,9 +5,6 @@
 - 📫 You can mail me on thakurmanoharkumar7@gmail.com for reaching me out.
 [![@man07har's Holopin board](https://holopin.io/api/user/board?user=man07har)](https://holopin.io/@man07har)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
 <!---
 Man07har/Man07har is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
