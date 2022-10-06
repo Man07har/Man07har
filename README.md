@@ -5,7 +5,6 @@
 - 📫 You can mail me on thakurmanoharkumar7@gmail.com for reaching me out.
 [![@man07har's Holopin board](https://holopin.io/api/user/board?user=man07har)](https://holopin.io/@man07har)
 
-<a>https://www.codewars.com/users/Man07har/badges/large</a>
 <!---
 Man07har/Man07har is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
